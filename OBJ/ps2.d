@@ -1,0 +1,32 @@
+..\obj\ps2.o: ..\NUC230_240_FWLib\src\ps2.c
+..\obj\ps2.o: D:\Program Files (x86)\Keil_V5\ARM\ARMCC\bin\..\include\stdio.h
+..\obj\ps2.o: ..\CMSIS\NUC230_240\Include\NUC230_240.h
+..\obj\ps2.o: ..\CMSIS\Include\core_cm0.h
+..\obj\ps2.o: D:\Program Files (x86)\Keil_V5\ARM\ARMCC\bin\..\include\stdint.h
+..\obj\ps2.o: ..\CMSIS\Include\core_cmInstr.h
+..\obj\ps2.o: ..\CMSIS\Include\core_cmFunc.h
+..\obj\ps2.o: ..\CMSIS\NUC230_240\Include\system_NUC230_240.h
+..\obj\ps2.o: ..\NUC230_240_FWLib\inc\SYS.h
+..\obj\ps2.o: ..\NUC230_240_FWLib\inc\ADC.h
+..\obj\ps2.o: ..\CMSIS\NUC230_240\Include\NUC230_240.h
+..\obj\ps2.o: ..\NUC230_240_FWLib\inc\CAN.h
+..\obj\ps2.o: ..\NUC230_240_FWLib\inc\FMC.h
+..\obj\ps2.o: ..\NUC230_240_FWLib\inc\GPIO.h
+..\obj\ps2.o: ..\NUC230_240_FWLib\inc\I2C.h
+..\obj\ps2.o: ..\NUC230_240_FWLib\inc\PWM.h
+..\obj\ps2.o: ..\NUC230_240_FWLib\inc\SPI.h
+..\obj\ps2.o: ..\NUC230_240_FWLib\inc\CRC.h
+..\obj\ps2.o: ..\NUC230_240_FWLib\inc\TIMER.h
+..\obj\ps2.o: ..\NUC230_240_FWLib\inc\WDT.h
+..\obj\ps2.o: ..\NUC230_240_FWLib\inc\WWDT.h
+..\obj\ps2.o: ..\NUC230_240_FWLib\inc\RTC.h
+..\obj\ps2.o: ..\NUC230_240_FWLib\inc\UART.h
+..\obj\ps2.o: ..\NUC230_240_FWLib\inc\I2S.h
+..\obj\ps2.o: ..\NUC230_240_FWLib\inc\USBD.h
+..\obj\ps2.o: ..\NUC230_240_FWLib\inc\PDMA.h
+..\obj\ps2.o: ..\NUC230_240_FWLib\inc\SC.h
+..\obj\ps2.o: ..\NUC230_240_FWLib\inc\SCUART.h
+..\obj\ps2.o: ..\NUC230_240_FWLib\inc\PS2.h
+..\obj\ps2.o: ..\NUC230_240_FWLib\inc\CLK.h
+..\obj\ps2.o: ..\NUC230_240_FWLib\inc\ACMP.h
+..\obj\ps2.o: ..\NUC230_240_FWLib\inc\EBI.h
